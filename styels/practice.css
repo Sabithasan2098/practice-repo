@@ -1,0 +1,57 @@
+.third{
+    color: blue;
+    background-color: yellow;
+    height: 200px;
+}
+.practice{
+    color: aqua;
+    text-align: center;
+}
+.content{
+    text-align: center;
+    font-style: italic;
+}
+.pragraph{
+    font-size:x-large;
+}
+.pragraphtwo{
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    list-style-type: square;
+}
+#list-two{
+    background-color: chartreuse;
+    color: blue;
+}
+.ronnie{
+    height: 400px;
+    background-image: url('../image/ronnie\ coleman.webp');
+    color: rgb(16, 73, 122);
+    background-repeat: no-repeat;
+    background-position: right top;
+    /* background-size: cover; */
+}
+.developer{
+    width: 1200px;
+    border: 15px solid gray;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 20px 20px 40px gray;
+}
+.second-pragraph{
+    display: none;
+}
+.third-pragraph{
+    visibility: hidden;
+}
+.dolor{
+    background-color: bisque;
+    color: brown;
+}
+.labore{
+   display: inline-block;
+   border: 2px solid lime;
+   height: 5px;
+   width: 20px;
+}
